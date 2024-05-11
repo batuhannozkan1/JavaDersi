@@ -1,2 +1,2 @@
 # JavaDersi
- Java kursu, Udemy kursu ve YouTube'dan not edilen Java kod parçacıkları mevcuttur.
+ Java kursu, Udemy kursu ve YouTube'da not edilen Java kod parçacıkları mevcuttur.
